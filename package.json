@@ -1,0 +1,17 @@
+{
+  "name": "test_image",
+  "version": "1.0.0",
+  "description": "nada",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "potrace": "^2.1.8",
+    "replace-color": "^2.3.0",
+    "sharp": "^0.33.0",
+    "svg-png-converter": "^0.0.9"
+  }
+}

@@ -1,0 +1,4 @@
+1. ejecutar all.js
+    - esto convierte los jpg a png transparente
+2. ejecutar all_png_vg.js
+    - esto convierte png a svg
